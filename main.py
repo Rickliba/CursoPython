@@ -16,4 +16,3 @@ import math, random
 # escolha = random.choice(lista)
 # print(f'O aluno escolhido foi {escolha}')
 
-
